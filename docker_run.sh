@@ -56,5 +56,5 @@ docker run \
     --privileged \
     --security-opt seccomp=unconfined \
     $DOCKER_OPTS \
-    argnctu/torch7 \
+    argnctu/torch7:andyzeng \
     $BASH_OPTION
